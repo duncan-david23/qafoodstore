@@ -50,7 +50,7 @@ const foodProducts = [
     id: 6,
     name: "Nkulenu",
     price: 15,
-    image: "https://nkulenu.com/wp-content/uploads/2020/07/1a.jpg",
+    image: "https://alphansofoods.co.uk/wp-content/uploads/2025/05/nkulenus-prekese-abedru-palm-soup-base-780g.png",
     description: "Rich, flavorful palm nut soup base for authentic dishes",
     category: "soups"
   },
