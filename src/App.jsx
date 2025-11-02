@@ -49,7 +49,7 @@ const foodProducts = [
   {
     id: 6,
     name: "Nkulenu",
-    price: 15,
+    price: 10,
     image: "https://alphansofoods.co.uk/wp-content/uploads/2025/05/nkulenus-prekese-abedru-palm-soup-base-780g.png",
     description: "Rich, flavorful palm nut soup base for authentic dishes",
     category: "soups"
@@ -81,7 +81,7 @@ const foodProducts = [
   {
     id: 10,
     name: "Onga Spices",
-    price: 5,
+    price: 1,
     image: "https://4wayfoods.com/wp-content/uploads/2025/08/Onga-The-Seasoning-Brand-at-the-Heart-of-African-Cooking.jpg",
     description: "Essential seasoning blend for authentic African flavors",
     category: "spices"
@@ -97,7 +97,7 @@ const foodProducts = [
   {
     id: 12,
     name: "Neat Fufu",
-    price: 15,
+    price: 12,
     image: "https://www.chopboxonline.com/wp-content/uploads/2024/08/NewBookImages1.png",
     description: "Convenient fufu dough preparation for authentic dishes",
     category: "staples"
